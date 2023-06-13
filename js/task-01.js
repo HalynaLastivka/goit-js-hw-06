@@ -1,4 +1,5 @@
 // 1
+console.log(1);
 const countCatedEl = document.querySelector('#categories'); 
 console.log('Number of categories:' + countCatedEl.children.length);
 
